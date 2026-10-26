@@ -1,4 +1,4 @@
-name: Sync fork with upstream
+name: My Custom Sync
 
 on:
   schedule:
